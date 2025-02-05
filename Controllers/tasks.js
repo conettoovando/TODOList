@@ -1,4 +1,4 @@
-import { TaskModel } from '../Models/mysql/tasks.js'
+import { TaskModel } from '../Models/mysql/todolist.js'
 
 export class TaskController {
   constructor () {
