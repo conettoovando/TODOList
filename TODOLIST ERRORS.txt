@@ -1,0 +1,5 @@
+TODOLIST ERRORS
+
+VALIDAR LOS DATOS DE ENTRADA.
+Caso de error: Realizar una solicitud GET a la ruta task con un ID que no es un UUID genera un error de tipo.
+Solución: Crear método para validar los tipos de datos (implementar ZOD)
